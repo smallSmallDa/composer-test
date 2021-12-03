@@ -1,0 +1,19 @@
+{
+    "name": "small/composer-test",
+    "description": "cpmposer PP packagist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Small\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuyun",
+            "email": "131102194@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
