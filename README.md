@@ -5,5 +5,6 @@ hello world
 - 3.切换仓库
 - 4.success
 - 4.success
+- 4.hahahahahah
 # small
 Manage some projects about WeChat applets
